@@ -1,3 +1,4 @@
+
 * {
     margin: 0;
     padding: 0;
@@ -15,7 +16,7 @@ body{
     margin-top: 0;
     margin-left: 0;
     background-image: 
-    linear-gradient(0 , rgba(0,0,0,0.5) , rgba(0,0,0,0.5)), url(file:///D:/test-re/public/img/2.jpeg);
+    linear-gradient(0 , rgba(0,0,0,0.5) , rgba(0,0,0,0.5)), url(https://www.wearecentralpa.com/wp-content/uploads/sites/69/2021/01/AdobeStock_133146697.jpeg?w=2560&h=1440&crop=1);
     background-repeat: no-repeat;
     color: white;
     background-size: cover; /* cho full ảnh */
@@ -26,7 +27,7 @@ body{
     margin-top: 10px;
     background-image: 
     linear-gradient(0 , rgba(0,0,0,0.25) , rgba(0,0,0,0.25))
-    , url(file:///D:/test-re/public/img/pc1.jpg);
+    , url(https://i.ytimg.com/vi/t6Fomz4GIEw/maxresdefault.jpg);
     width: 100%;
     height: 117vh;
     background-size: 100%;
@@ -128,7 +129,7 @@ ul li a:hover::after{
        height: 105vh;
        background-image: 
            linear-gradient(0 , rgba(0,0,0,0.5) , rgba(0,0,0,0.5))
-           , url(file:///D:/test-re/public/img/mo.jpg);
+           , url(https://i.pinimg.com/736x/30/b0/22/30b0228dcd64deab63461b0ed9453a7f.jpg);
         background-size: 100%;
         background-repeat: no-repeat;
         color: white;
@@ -228,7 +229,7 @@ ul li a:hover::after{
             margin-top: 2px;
             background-image: 
             linear-gradient(0 , rgba(0,0,0,0.25) , rgba(0,0,0,0.25))
-            , url(file:///D:/test-re/public/img/mo1.jpg);
+            , url(https://i.scdn.co/image/ab67616d0000b27318d0490128ce494c14beb8bc);
             width: 100%;
             height: 70vh;
             background-size: 100%;
